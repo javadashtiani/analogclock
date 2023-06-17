@@ -1,5 +1,5 @@
 # analogclock
-![modal](https://github.com/javadashtiani/modal/assets/134012615/3a6b31f7-c155-4073-a86b-95e7a7f8632e)
+![analogclock](https://github.com/javadashtiani/analogclock/assets/134012615/925effd0-a274-4014-a8d5-9c6d72ec7550)
 - 🔗 https://javadashtiani.github.io/analogclock/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
